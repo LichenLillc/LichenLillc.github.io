@@ -7,10 +7,12 @@ paperurl: 'https://openreview.net/pdf/e9d277877d779f8f4cd3d6b7530ec58f34561a54.p
 authors:
   - "Qizhe Zhang"
   - "Mengzhen Liu"
-  - "**Lichen Li**"
+  - "Lichen Li"
   - "Ming Lu"
   - "Yuan Zhang"
   - "Junwen Pan"
   - "Qi She"
   - "Shanghang Zhang"
+bold_authors:
+  - "Lichen Li"
 ---
