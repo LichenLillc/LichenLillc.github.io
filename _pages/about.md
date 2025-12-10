@@ -19,35 +19,35 @@ I am looking for Ph.D. opportunities starting in Fall 2026.
 
 Research Experience
 ======
-Reward Hacking Monitoring in Reasoning LLMs | *UCLA (Remote)*
+**Reward Hacking Monitoring in Reasoning LLMs** | *UCLA (Remote)* <br>
 *Research Assistant | Advisors: Prof. Cho-Jui Hsieh & Prof. Tianyi Zhou (UMD)*
 *Jul 2025 - Present*
 
-Visual Token Pruning in Multimodal LLMs | *Peking University*
+**Visual Token Pruning in Multimodal LLMs** | *Peking University* <br>
 *Research Assistant | Advisor: Prof. Shanghang Zhang*
 *Mar 2025 - Jun 2025*
 * Publication: *Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs*, **NeurIPS 2025**.
 
-Vertical Federated Learning under Privacy Constraints | *Johns Hopkins University (Remote)*
+**Vertical Federated Learning under Privacy Constraints** | *Johns Hopkins University (Remote)* <br>
 *Research Assistant | Advisor: Prof. Yinzhi Cao*
 *Jun 2024 - Aug 2024*
 
-Parameter-Efficient Fine-Tuning (PEFT) for Vision Transformers | *Peking University*
+**Parameter-Efficient Fine-Tuning for Vision Transformers** | *Peking University* <br>
 *Research Assistant | Advisor: Prof. Shanghang Zhang*
 *Mar 2024 - Jun 2024*
 
 Education
 ======
-**Peking University** | Beijing, China
+**Peking University** | Beijing, China <br>
 *B.S. in Data Science and Big Data Technology, Minor in Philosophy*
 *2021 - 2026 (Expected)*
-* Honors: *Peking University Merit Student (2025)*
+*Honors: *Peking University Merit Student (2025)*
 
-**The High School Affiliated to Renmin University of China** | Beijing, China
+**The High School Affiliated to Renmin University of China** | Beijing, China <br>
 *High School*
 *2018 - 2021*
 
-**The High School Affiliated to Renmin University of China** | Beijing, China
+**The High School Affiliated to Renmin University of China** | Beijing, China <br>
 *Middle School*
 *2015 - 2018*
 
