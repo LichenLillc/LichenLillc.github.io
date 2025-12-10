@@ -43,6 +43,6 @@ Peking University | Beijing, China
 *Sep 2021 - Jun 2026 (Expected)*
 * Honors: Peking University Merit Student (2025)
 
-Hobbies & Interests
-======
+
+My hobbies :)
 * Reading, Photography, Running, Cycling, Singing.
