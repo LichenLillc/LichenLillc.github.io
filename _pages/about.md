@@ -41,7 +41,7 @@ Education
 Peking University | Beijing, China
 
 *B.S. in Data Science and Big Data Technology, Minor in Philosophy*
-*Sep 2021 - Jun 2026 (Expected)*
+*2021 - 2026 (Expected)*
 * Honors: *Peking University Merit Student (2025)*
 
 
