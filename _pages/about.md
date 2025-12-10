@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lichen Li"
+title: "Lichen Li (李莅琛)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am Lichen, a senior undergraduate student majoring in Data Science and Big Data Technology at Peking University.
+I am Lichen Li, a senior undergraduate student majoring in Data Science and Big Data Technology at [Peking University](https://english.pku.edu.cn). 
 
 A data-driven personal website
 ======
