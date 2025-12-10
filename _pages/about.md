@@ -38,11 +38,18 @@ Parameter-Efficient Fine-Tuning (PEFT) for Vision Transformers | *Peking Univers
 
 Education
 ======
-Peking University | Beijing, China
-
+**Peking University** | Beijing, China
 *B.S. in Data Science and Big Data Technology, Minor in Philosophy*
 *2021 - 2026 (Expected)*
 * Honors: *Peking University Merit Student (2025)*
+
+**The High School Affiliated to Renmin University of China** | Beijing, China
+*High School*
+*2018 - 2021*
+
+**The High School Affiliated to Renmin University of China** | Beijing, China
+*Middle School*
+*2015 - 2018*
 
 
 My hobbies :)
