@@ -21,17 +21,17 @@ I am looking for Ph.D. opportunities starting in Fall 2026.
 Research Experience
 ======
 
-**Reward Hacking Monitoring in Reasoning LLMs** | UCLA <span style="float: right; color: #777">Jul 2025 - Present</span> <br>
+**Reward Hacking Monitoring in Reasoning LLMs** | UCLA <span style="float: right; color: #999">Jul 2025 - Present</span> <br>
 Advisors: [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/) & [Prof. Tianyi Zhou](https://tianyizhou.github.io) (UMD) <br>
 
-**Visual Token Pruning in Multimodal LLMs** | PKU <span style="float: right; color: #777;">Mar 2025 - Jun 2025</span> <br>
+**Visual Token Pruning in Multimodal LLMs** | PKU <span style="float: right; color: #999;">Mar 2025 - Jun 2025</span> <br>
 Advisor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html) <br>
 <span style="color: #999; font-size: 0.8em;">(NeurIPS 2025) [Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs](https://arxiv.org/pdf/2506.10967)</span> <br>
 
-**Vertical Federated Learning under Privacy Constraints** | JHU <span style="float: right; color: #777;">Jun 2024 - Aug 2024</span> <br>
+**Vertical Federated Learning under Privacy Constraints** | JHU <span style="float: right; color: #999;">Jun 2024 - Aug 2024</span> <br>
 Advisor: [Prof. Yinzhi Cao](https://yinzhicao.org) <br>
 
-**Parameter-Efficient Fine-Tuning for Vision Transformers** | PKU <span style="float: right; color: #777;">Mar 2024 - Jun 2024</span> <br>
+**Parameter-Efficient Fine-Tuning for Vision Transformers** | PKU <span style="float: right; color: #999;">Mar 2024 - Jun 2024</span> <br>
 Advisor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html) <br>
 
 <div style="height: 45px;"></div>
@@ -39,15 +39,15 @@ Advisor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.ht
 Education
 ======
 
-**Peking University** <span style="float: right; color: #777;">2021 - 2026 (Expected)</span> <br>
-*B.S. in Data Science and Big Data Technology, Minor in Philosophy* <br>
+**Peking University** <span style="float: right; color: #999;">2021 - 2026 (Expected)</span> <br>
+<span style="color: #999; font-size: 0.9em;">*B.S. in Data Science and Big Data Technology, Minor in Philosophy*</span> <br>
 *Honors: Peking University Merit Student (2025)* <br>
 
-**The High School Affiliated to Renmin University of China** <span style="float: right; color: #777;">2018 - 2021</span> <br>
-*High School* <br>
+**The High School Affiliated to Renmin University of China** <span style="float: right; color: #999;">2018 - 2021</span> <br>
+<span style="color: #999; font-size: 0.9em;">*High School*</span> <br>
 
-**The High School Affiliated to Renmin University of China** <span style="float: right; color: #777;">2015 - 2018</span> <br>
-*Middle School* <br>
+**The High School Affiliated to Renmin University of China** <span style="float: right; color: #999;">2015 - 2018</span> <br>
+<span style="color: #999; font-size: 0.9em;">*Middle School*</span> <br>
 
 <div style="height: 40px;"></div>
 
