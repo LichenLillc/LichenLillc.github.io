@@ -15,6 +15,50 @@ My long-term goal is to develop AI technologies that not only advance technical 
 
 I am currently looking for Ph.D. opportunities starting in Fall 2026.
 
+
+Research Experience
+======
+**Reward Hacking Monitoring in Reasoning LLMs** | *University of California, Los Angeles (Remote)*
+*Research Assistant | Advisors: Prof. Cho-Jui Hsieh & Prof. Tianyi Zhou (UMD)*
+*Jul 2025 - Present*
+* Leading a project to address the **"dual validity deficit"** in existing monitors, which often rely on ineffective synthetic trajectories or indirect definitions.
+* Proposed a novel framework to induce, amplify, and trace **genuine, in-the-wild hacking behaviors** during both inference and training phases.
+* Developing a robust monitor to improve the reliability of reasoning systems, aiming to mitigate the risk of misleading users and deepening informational inequality. (Planned submission to ACL 2026).
+
+**Efficient Multimodal LLMs (Visual Token Pruning)** | *Peking University*
+*Research Assistant | Advisor: Prof. Shanghang Zhang*
+*Mar 2025 - Jun 2025*
+* Co-developed **CDPruner**, a training-free, model-agnostic method that reformulates token pruning as **conditional diversity maximization**.
+* Addressed the NP-hard subset selection problem by applying **Determinantal Point Processes (DPP)** with a greedy approximation algorithm and Cholesky decomposition, reducing complexity to polynomial time.
+* Engineered a modular framework to unify **heterogeneous codebases**, enabling rigorous benchmarking across diverse baselines.
+* **Publication:** *Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs*, **NeurIPS 2025**.
+
+**Vertical Federated Learning under Privacy Constraints** | *Johns Hopkins University (Remote)*
+*Research Assistant | Advisor: Prof. Yinzhi Cao*
+*Jun 2024 - Aug 2024*
+* Led a project adapting optimization techniques from Horizontal to Vertical Federated Learning (VFL).
+* Developed a server-side transformation layer to enhance model performance under **Differential Privacy (DP)** constraints.
+* Refined open-source VFL frameworks to improve stability and training efficiency.
+
+**Parameter-Efficient Fine-Tuning (PEFT) for Vision Transformers** | *Peking University*
+*Research Assistant | Advisor: Prof. Shanghang Zhang*
+*Mar 2024 - Jun 2024*
+* Conducted a comprehensive comparative study of representative PEFT methods, including **VPT, AdaptFormer, LoRA, and SSF**.
+* Analyzed the theoretical foundations and empirically evaluated the applicability of these methods across various scenarios, motivated by the need for cost-effective model adaptation.
+
+Education
+======
+**Peking University** | Beijing, China
+*B.S. in Data Science and Big Data Technology, Minor in Philosophy*
+*Sep 2021 - Jun 2026 (Expected)*
+* Honors: Peking University Merit Student (2025)
+
+Hobbies & Interests
+======
+* Reading, Photography, Running, Cycling, Singing.
+
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
