@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lichen Li (李莅琛)"
+title: "Lichen Li"
 author_profile: true
 redirect_from: 
   - /about/
