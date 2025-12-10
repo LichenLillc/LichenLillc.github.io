@@ -41,7 +41,8 @@ Education
 
 **Peking University** <span style="float: right; color: #999;">2021 - 2026 (Expected)</span> <br>
 <span style="color: #999; font-size: 0.9em;">*B.S. in Data Science and Big Data Technology, Minor in Philosophy*</span> <br>
-*Honors: Peking University Merit Student (2025)* <br>
+<span style="color: #999; font-size: 0.9em;">*Honors: PKU Merit Student (2025)*</span> <br>
+<span style="color: #999; font-size: 0.9em;">*Leadership: PKU Demonstration Class (2023, Class Monitor)*</span> <br>
 
 **The High School Affiliated to Renmin University of China** <span style="float: right; color: #999;">2018 - 2021</span> <br>
 <span style="color: #999; font-size: 0.9em;">*High School*</span> <br>
