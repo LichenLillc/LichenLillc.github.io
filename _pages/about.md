@@ -55,6 +55,6 @@ Education
 
 A Bit More About Me :)
 ===
-* Personality (mbti): E/INTJ
-* Hobbies & Interests: Reading, Theater, Photography, Running, Cycling, Singing.
+* mbti♒️: E/INTJ
+* What I enjoy🌟: Reading, Theater🎭, Photography📷, Running, Cycling, Singing.
 * Some Books & Plays I love: *The Republic* (by Plato), *Discourse on the Origin and Basis of Inequality Among Men* (by Rousseau); *Rhinoceros in Love*[🦏](https://www.bilibili.com/video/BV1Ku411f7Vy/), *Man of La Mancha* (musical), *Frankenstein* (NT Live)...
