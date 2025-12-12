@@ -12,7 +12,7 @@ Welcome to my homepage!
 
 Hi! I am a senior undergraduate at [Yuanpei College](https://yuanpei.pku.edu.cn/en/aboutyuanpei/collegeprofile/index.htm), [Peking University](https://english.pku.edu.cn), majoring in Data Science with a minor in Philosophy.
 
-My research is driven by a philosophical curiosity rooted in epistemology, about how AI systems integrate perception and language to gain knowledge. I focus on **Multimodal AI, AI Reasoning and embodied AI**, with a interest in building more efficient and interpretable systems. My long-term goal is to develop AI that not only advance technical capabilities but also enhance access to quality knowledge and promote equity for underserved communities.
+My research is driven by a philosophical curiosity rooted in epistemology, about how AI systems integrate perception and language to gain knowledge. I focus on **Multimodal AI, AI Reasoning and embodied AI**, with a interest in building more intelligent, efficient and interpretable systems. My long-term goal is to develop AI that not only advance technical capabilities but also enhance access to quality knowledge and promote equity for underserved communities.
 
 I am looking for Ph.D. opportunities starting in Fall 2026.
 
