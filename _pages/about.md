@@ -56,7 +56,7 @@ Education
 A Bit More About Me :)
 ===
 * mbti ♒️: E/INTJ
-* What I enjoy🌟: Reading, Theater, Photography📷, Running, Cycling, Singing.
+* What I enjoy🌟: Philosophy, Reading, Theater, Photography📷, Running, Cycling, Singing.
 * Some Books📚 & Plays🎭 I love:
   * *The Republic* (by Plato)
   * *Discourse on the Origin and Basis of Inequality Among Men* (by Rousseau)
