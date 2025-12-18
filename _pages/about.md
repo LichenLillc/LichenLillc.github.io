@@ -62,5 +62,4 @@ A Bit More About Me :)
   * *Discourse on the Origin and Basis of Inequality Among Men* (by Rousseau)
   * *Rhinoceros in Love* [🦏](https://www.bilibili.com/video/BV1Ku411f7Vy/)
   * *Man of La Mancha* (musical)
-  * *Frankenstein* (NT Live)
   * ...
