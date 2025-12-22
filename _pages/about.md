@@ -23,6 +23,7 @@ Research Experience
 
 **Reward Hacking Monitoring in Reasoning LLMs** | UCLA <span style="float: right; color: #999">Jul 2025 - Present</span> <br>
 Advisors: [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/) & [Prof. Tianyi Zhou](https://tianyizhou.github.io) (UMD) <br>
+<span style="color: #999; font-size: 0.8em;">(Ongoing; planned submission to ICML 2026)</span> <br>
 
 **Visual Token Pruning in Multimodal LLMs** | PKU <span style="float: right; color: #999;">Mar 2025 - Jun 2025</span> <br>
 Advisor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html) <br>
