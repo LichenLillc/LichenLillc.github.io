@@ -14,16 +14,14 @@ Hi! I am a final-year undergraduate at [Yuanpei College](https://yuanpei.pku.edu
 
 My research is driven by a philosophical curiosity rooted in epistemology, about how large models integrate perception and language to gain knowledge. I focus on **Multimodal AI, AI Reasoning and embodied AI**, with a interest in building more intelligent, efficient and interpretable AI systems. My long-term goal is to develop AI that not only advance technical capabilities but also enhance access to quality knowledge and promote equity for underserved communities.
 
-I am looking for Ph.D. opportunities starting in Fall 2026.
-
 <div style="height: 45px;"></div>
 
 Research Experience
 ======
 
-**Reward Hacking Monitoring in Reasoning LLMs** | UCLA <span style="float: right; color: #999">Jul 2025 - Present</span> <br>
+**Reward Hacking Monitoring in Reasoning LLMs** | UCLA <span style="float: right; color: #999">Jul 2025 - Mar 2026</span> <br>
 Advisors: [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/) & [Prof. Tianyi Zhou](https://tianyizhou.github.io) (UMD) <br>
-<span style="color: #999; font-size: 0.8em;">(Ongoing; planned submission to ICML 2026)</span> <br>
+<span style="color: #999; font-size: 0.8em;">(preprint) [Do Synthetic Trajectories Reflect Real Reward Hacking? A Systematic Study on Monitoring In-the-Wild Hacking in Code Generation](https://arxiv.org/pdf/2604.23488)</span> <br>
 
 **Visual Token Pruning in Multimodal LLMs** | PKU <span style="float: right; color: #999;">Mar 2025 - Jun 2025</span> <br>
 Advisor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html) <br>
