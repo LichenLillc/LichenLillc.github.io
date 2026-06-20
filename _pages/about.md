@@ -19,7 +19,7 @@ My research is driven by a philosophical curiosity rooted in epistemology, about
 Research Experience
 ======
 
-**Reward Hacking Monitoring in Reasoning LLMs** | UCLA & UMD <span style="float: right; color: #999">Jul 2025 - Mar 2026</span> <br>
+**Reward Hacking Monitoring in Reasoning LLMs** | UCLA & UMD <span style="float: right; color: #999">Jul 2025 - May 2026</span> <br>
 Advisors: [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/) & [Prof. Tianyi Zhou](https://tianyizhou.github.io) <br>
 <span style="color: #999; font-size: 0.8em;">(Preprint) [Do Prompt-Elicited Trajectories Reflect Training-Time Reward Hacking? A Systematic Study on Monitoring Trainig-Time Reward Hacking in Code Generation](https://arxiv.org/pdf/2604.23488)</span> <br>
 
