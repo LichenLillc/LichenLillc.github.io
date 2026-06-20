@@ -21,7 +21,7 @@ Research Experience
 
 **Reward Hacking Monitoring in Reasoning LLMs** | UCLA & UMD <span style="float: right; color: #999">Jul 2025 - Mar 2026</span> <br>
 Advisors: [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/) & [Prof. Tianyi Zhou](https://tianyizhou.github.io) <br>
-<span style="color: #999; font-size: 0.8em;">(preprint) [Do Synthetic Trajectories Reflect Real Reward Hacking? A Systematic Study on Monitoring In-the-Wild Hacking in Code Generation](https://arxiv.org/pdf/2604.23488)</span> <br>
+<span style="color: #999; font-size: 0.8em;">(preprint) [Do Prompt-Elicited Trajectories Reflect Training-Time Reward Hacking? A Systematic Study on Monitoring Trainig-Time Reward Hacking in Code Generation](https://arxiv.org/pdf/2604.23488)</span> <br>
 
 **Visual Token Pruning in Multimodal LLMs** | PKU <span style="float: right; color: #999;">Mar 2025 - Jun 2025</span> <br>
 Advisor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html) <br>
