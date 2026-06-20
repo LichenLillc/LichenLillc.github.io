@@ -24,7 +24,7 @@ Research Experience
 Advisors: [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/) & [Prof. Tianyi Zhou](https://tianyizhou.github.io) <br>
 <span style="color: #999; font-size: 0.8em;">(Preprint) [Do Prompt-Elicited Trajectories Reflect Training-Time Reward Hacking? A Systematic Study on Monitoring Trainig-Time Reward Hacking in Code Generation](https://arxiv.org/pdf/2604.23488)</span> <br>
 
-**Self-Evolving Visual Questioner** | UCLA & UMD <span style="float: right; color: #999">Jul 2025 - May 2026</span> <br>
+**Self-Evolving Visual Questioner** | UMD & UCLA <span style="float: right; color: #999">Jul 2025 - May 2026</span> <br>
 Advisors: [Prof. Tianyi Zhou](https://tianyizhou.github.io) & [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/) <br>
 <span style="color: #999; font-size: 0.8em;">(Preprint) [Self-Evolving Visual Questioner](https://arxiv.org/pdf/2606.13929)</span> <br>
 <span style="color: #999; font-size: 0.8em;">[\[Website\]](https://joliang17.github.io/SelfEvolvingVQG/)</span> <br>
