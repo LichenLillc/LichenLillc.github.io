@@ -11,7 +11,8 @@ redirect_from:
 
 Welcome to my homepage!
 
-Hi! I am a final-year undergraduate at [Yuanpei College](https://yuanpei.pku.edu.cn/en/aboutyuanpei/collegeprofile/index.htm), [Peking University](https://english.pku.edu.cn), majoring in Data Science with a minor in Philosophy.
+Hi! I am a first-year PhD student at [xML Lab, National University of Singapore](https://sites.google.com/view/xml-nus/home?authuser=0), under the supervision of [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/).
+Previously, I completed my undergraduate studies at [Yuanpei College](https://yuanpei.pku.edu.cn/en/aboutyuanpei/collegeprofile/index.htm), [Peking University](https://english.pku.edu.cn), majoring in Data Science with a minor in Philosophy. I have also had the pleasure of working with [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/), [Prof. Tianyi Zhou](https://tianyizhou.github.io), and [Prof. Shanghang Zhang](https://cs.pku.edu.cn/info/1233/2060.htm) on various research projects.
 
 My research is driven by a philosophical curiosity rooted in epistemology, about how large models integrate perception and language to gain knowledge. I focus on **Multimodal AI** and **AI Reasoning**, with a interest in building more intelligent, **efficient** and interpretable AI systems. My long-term goal is to develop AI that not only advance technical capabilities but also enhance access to quality knowledge and promote equity for underserved communities.
 
@@ -32,7 +33,7 @@ Advisors: [Prof. Tianyi Zhou](https://tianyizhou.github.io) & [Prof. Cho-Jui Hsi
 <span style="color: #999; font-size: 0.8em;">[\[Project Website\]](https://joliang17.github.io/SelfEvolvingVQG/)</span> <br>
 
 **Visual Token Pruning in Multimodal LLMs** | PKU <span style="float: right; color: #999;">Mar 2025 - Jun 2025</span> <br>
-Advisor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html) <br>
+Advisor: [Prof. Shanghang Zhang](https://cs.pku.edu.cn/info/1233/2060.htm) <br>
 <span style="color: #999; font-size: 0.8em;">(NeurIPS 2025) [Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs](https://arxiv.org/pdf/2506.10967)</span> <br>
 <span style="color: #999; font-size: 0.8em;">[\[Project Website\]](https://theia4869.com/CDPruner/)</span> <br>
 
@@ -40,7 +41,7 @@ Advisor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.ht
 Advisor: [Prof. Yinzhi Cao](https://yinzhicao.org) <br>
 
 **Parameter-Efficient Fine-Tuning for Vision Transformers** | PKU <span style="float: right; color: #999;">Mar 2024 - Jun 2024</span> <br>
-Advisor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html) <br>
+Advisor: [Prof. Shanghang Zhang](https://cs.pku.edu.cn/info/1233/2060.htm) <br>
 
 <div style="height: 45px;"></div>
 
