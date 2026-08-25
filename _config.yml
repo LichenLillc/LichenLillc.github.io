@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Lichen Li"
 title_separator          : "-"
 name                     : &name "Lichen Li"
-description              : &description "Lichen Li's academic homepage. Undergraduate student in Peking University."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Lichen Li's academic homepage. PhD student at National University of Singapore."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://lichenlillc.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile_20230401_1.png"
   name             : "Lichen Li"
   pronouns         : # "he/his"  
-  bio              : "Undergraduate in Data Science and Big Data Technology"
-  location         : "Beijing, China"
-  employer         : "Peking University"
+  bio              : "PhD student in AI"
+  location         : "Singapore"
+  employer         : "National University of Singapore"
   uri              : # URL
-  email            : "lilichen@stu.pku.edu.cn" 
+  email            : "lichenli@u.nus.edu" 
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : Lichen Li
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
