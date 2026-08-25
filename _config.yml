@@ -26,7 +26,7 @@ author:
   avatar           : "profile_20230401_1.png"
   name             : "Lichen Li"
   pronouns         : # "he/his"  
-  bio              : "PhD student in AI"
+  bio              : "PhD student in AI at NUS"
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Lichen Li
+  linkedin         : "https://www.linkedin.com/in/lichen-li-0a091b428"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
