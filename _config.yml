@@ -23,7 +23,15 @@ repository               : "LichenLillc/LichenLillc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_20230401_1.png"
+  avatar           : "profile/portrait.jpg" # Shown if JavaScript is off, or if avatar_rotation is removed
+  # One photo is picked per day (Singapore time). A higher weight means it comes up more often.
+  avatar_rotation  :
+    - file: "profile/portrait.jpg"
+      weight: 4
+    - file: "profile/pagoda.jpg"
+      weight: 3
+    - file: "profile/bouquet.jpg"
+      weight: 3
   name             : "Lichen Li"
   pronouns         : # "he/his"  
   bio              : "PhD student at NUS"
