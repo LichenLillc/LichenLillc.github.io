@@ -1,0 +1,222 @@
+/* ==========================================================================
+   SITE REFINEMENTS
+   Typography, colour and spacing tweaks layered over the AcademicPages theme,
+   plus the .cv-* styles used by the experience and education lists on the
+   home page (_pages/about.md). Delete this file's @import in
+   assets/css/main.scss to get the original theme back.
+   ========================================================================== */
+
+/* Colours
+   ========================================================================== */
+
+:root {
+  --global-text-color: #33393e;
+  --global-link-color: #1b7393;          /* 5.4:1 on white; the theme's #52adc8 was 2.5:1 */
+  --global-link-color-hover: #11536b;
+  --global-link-color-visited: #1b7393;
+  --lc-muted: #687177;                   /* secondary text: dates, notes */
+  --lc-underline: rgba(27, 115, 147, 0.3);
+  --lc-tag-bg: #eef1f3;
+  --lc-tag-text: #525c63;
+  --lc-venue-bg: #e2f0f5;
+  --lc-venue-text: #11536b;
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #1e2124;
+  --global-footer-bg-color: #191b1e;
+  --global-border-color: #363b40;
+  --global-dark-border-color: #4a5157;
+  --global-text-color: #e2e5e8;
+  --global-text-color-light: #c4cacf;
+  --global-masthead-link-color: #e2e5e8;
+  --global-masthead-link-color-hover: #ffffff;
+  --global-link-color: #6cc7e3;
+  --global-link-color-hover: #a2dff2;
+  --global-link-color-visited: #6cc7e3;
+  --lc-muted: #a2abb2;
+  --lc-underline: rgba(108, 199, 227, 0.35);
+  --lc-tag-bg: #2b3035;
+  --lc-tag-text: #c4cacf;
+  --lc-venue-bg: #163a47;
+  --lc-venue-text: #a2dff2;
+}
+
+/* Base type
+   ========================================================================== */
+
+html {
+  @include breakpoint($medium) {
+    font-size: 17px;
+  }
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Page layout: a little more room for the text column on wide screens
+   ========================================================================== */
+
+.page {
+  @include breakpoint($large) {
+    @include suffix(1 of 12);
+  }
+}
+
+.page__content {
+  max-width: 44em;
+  line-height: 1.65;
+}
+
+.page__title {
+  margin-bottom: 1em;
+  letter-spacing: -0.015em;
+}
+
+/* Links in page text and lists such as Publications:
+   a quieter underline that firms up on hover */
+.page__content a,
+.archive a {
+  color: var(--global-link-color);
+  text-decoration: underline;
+  text-decoration-color: var(--lc-underline);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+
+  &:hover {
+    color: var(--global-link-color-hover);
+    text-decoration-color: currentColor;
+  }
+}
+
+/* Section headings (the "=====" headings in Markdown) */
+.page__content > h1 {
+  margin: 2.4em 0 1.1em;
+  padding-bottom: 0.45em;
+  font-size: 1.3em;
+  letter-spacing: -0.01em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.page__content li {
+  margin-bottom: 0.3em;
+}
+
+.page__content li > ul {
+  margin-top: 0.3em;
+}
+
+/* Experience and education lists
+   ========================================================================== */
+
+.cv-item {
+  margin-bottom: 1.6em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+/* Title on the left, dates on the right; dates drop below on narrow screens */
+.cv-item__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  column-gap: 1.25em;
+}
+
+.cv-item__title {
+  flex: 1 1 18em;
+  min-width: 0;
+
+  strong {
+    font-weight: 650;
+  }
+}
+
+/* Place, shown at the start of the advisors line */
+.cv-item__org {
+  color: var(--lc-muted);
+
+  &::after {
+    content: "·";
+    margin: 0 0.5em;
+  }
+}
+
+.cv-item__date {
+  flex: none;
+  color: var(--lc-muted);
+  font-size: 0.85em;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.cv-item__sub {
+  margin-top: 0.15em;
+}
+
+.cv-item__note {
+  color: var(--lc-muted);
+  font-size: 0.9em;
+}
+
+.cv-item__paper {
+  margin-top: 0.4em;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.cv-item__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2em 1.2em;
+  margin-top: 0.35em;
+  color: var(--lc-muted);
+  font-size: 0.85em;
+
+  i {
+    margin-right: 0.35em;
+    font-size: 0.9em;
+  }
+}
+
+/* Small pill for "Preprint" and venues */
+.cv-tag {
+  display: inline-block;
+  margin-right: 0.5em;
+  padding: 0.1em 0.55em;
+  border-radius: 999px;
+  background: var(--lc-tag-bg);
+  color: var(--lc-tag-text);
+  font-size: 0.78em;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  vertical-align: 0.08em;
+  white-space: nowrap;
+
+  &--venue {
+    background: var(--lc-venue-bg);
+    color: var(--lc-venue-text);
+  }
+}
+
+/* Sidebar
+   ========================================================================== */
+
+/* Let long entries such as "National University of Singapore" wrap
+   (they were cut off), with the text lining up past the icon. */
+.author__urls li {
+  white-space: normal;
+  padding-left: 1.75em;   /* icon width + its gap */
+  text-indent: -1.75em;
+
+  i {
+    text-indent: 0;   /* icons are inline-blocks and would inherit the shift */
+  }
+}
