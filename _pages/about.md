@@ -14,7 +14,7 @@ Welcome to my homepage!
 Hi! I am a first-year PhD student at [xML Lab](https://sites.google.com/view/xml-nus/home?authuser=0), [National University of Singapore](https://www.nus.edu.sg), under the supervision of [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/).
 Previously, I completed my undergraduate studies at [Yuanpei College](https://yuanpei.pku.edu.cn/en/aboutyuanpei/collegeprofile/index.htm), [Peking University](https://english.pku.edu.cn), majoring in Data Science with a minor in Philosophy. I have also had the pleasure of working with [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/), [Prof. Tianyi Zhou](https://tianyizhou.github.io), and [Prof. Shanghang Zhang](https://cs.pku.edu.cn/info/1233/2060.htm) on various research projects.
 
-My research is driven by a philosophical curiosity rooted in epistemology, about how large models integrate perception and language to gain knowledge. I focus on **Multimodal AI** and **AI Reasoning**, with a interest in building more intelligent, **efficient** and interpretable AI systems. My long-term goal is to develop AI that not only advance technical capabilities but also enhance access to quality knowledge and promote equity for underserved communities.
+My research is driven by a philosophical curiosity rooted in epistemology, about how large models integrate perception and language to gain knowledge. I focus on **Multimodal AI** and **AI Reasoning**, with an interest in building more intelligent, **efficient** and interpretable AI systems. My long-term goal is to develop AI that not only advances technical capabilities but also enhances access to quality knowledge and promote equity for underserved communities.
 
 <div style="height: 45px;"></div>
 
@@ -23,7 +23,7 @@ Research Experience
 
 **Reward Hacking Monitoring in Reasoning LLMs** | UCLA & UMD <span style="float: right; color: #999">Jul 2025 - May 2026</span> <br>
 Advisors: [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/) & [Prof. Tianyi Zhou](https://tianyizhou.github.io) <br>
-<span style="color: #999; font-size: 0.8em;">(Preprint) [Do Prompt-Elicited Trajectories Reflect Training-Time Reward Hacking? A Systematic Study on Monitoring Trainig-Time Reward Hacking in Code Generation](https://arxiv.org/pdf/2604.23488)</span> <br>
+<span style="color: #999; font-size: 0.8em;">(Preprint) [Do Prompt-Elicited Trajectories Reflect Training-Time Reward Hacking? A Systematic Study on Monitoring Training-Time Reward Hacking in Code Generation](https://arxiv.org/pdf/2604.23488)</span> <br>
 <span style="color: #999; font-size: 0.8em;">[\[Project Website\]](https://lichenlillc.github.io/RewardHackingMonitor/#)</span> <br>
 <span style="color: #999; font-size: 0.8em;">[\[Talk\]](https://x.com/arena/status/2086132106455904562) given by Hengguang at Arena</span> <br>
 
