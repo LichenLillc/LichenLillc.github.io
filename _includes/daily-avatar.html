@@ -6,16 +6,18 @@
     var photos = {{ include.author.avatar_rotation | jsonify }};
     var base = {{ avatar_base | jsonify }};
 
-    // Day number in Singapore time (UTC+8): every visitor gets the same photo,
-    // and it changes at midnight in Singapore.
+    /* Keep to block comments in this script: the site minifies its HTML onto one line,
+       so a line comment would swallow everything after it. */
+    /* Day number in Singapore time (UTC+8): every visitor gets the same photo,
+       and it changes at midnight in Singapore. */
     var h = Math.floor((Date.now() + 8 * 3600000) / 86400000);
 
-    // Scramble the day number into a repeatable value in [0, 1).
+    /* Scramble the day number into a repeatable value in [0, 1). */
     h = Math.imul(h ^ (h >>> 16), 0x85ebca6b);
     h = Math.imul(h ^ (h >>> 13), 0xc2b2ae35);
     var r = ((h ^ (h >>> 16)) >>> 0) / 4294967296;
 
-    // Walk the list until the weights add up past r.
+    /* Walk the list until the weights add up past r. */
     var total = photos.reduce(function (sum, p) { return sum + p.weight; }, 0);
     var i = 0, seen = photos[0].weight;
     while (r * total >= seen) { seen += photos[++i].weight; }
