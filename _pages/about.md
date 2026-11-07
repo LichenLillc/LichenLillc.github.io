@@ -22,7 +22,7 @@ Research Experience
 
   <div class="cv-item">
     <div class="cv-item__head">
-      <span class="cv-item__title"><strong>Reward Hacking Monitoring in Reasoning LLMs</strong></span>
+      <span class="cv-item__title"><strong>Reward Hacking Monitoring in Coding LLMs</strong></span>
       <span class="cv-item__date">Jul 2025 – May 2026</span>
     </div>
     <div class="cv-item__sub"><span class="cv-item__org">UCLA &amp; UMD</span>Advisors: <a href="https://web.cs.ucla.edu/~chohsieh/">Prof. Cho-Jui Hsieh</a> &amp; <a href="https://tianyizhou.github.io">Prof. Tianyi Zhou</a></div>
